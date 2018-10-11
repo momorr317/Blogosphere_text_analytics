@@ -3,6 +3,6 @@
 Competition 3: Predicting Blogger Characteristics
 
 Members: 
-1) Jing Sun
-2) Murugesan Ramakrishnan
-3) Shaoran Li
+1) Jing Sun: text analysis model building
+2) Murugesan Ramakrishnan: data exploration, feature engineering
+3) Shaoran Li: data exploration, report writing
